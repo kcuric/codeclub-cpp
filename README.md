@@ -13,6 +13,7 @@ Pripremljeni materijali za Zajednicu tehničke kulture Karlovac. Materijali su s
 ## ✅ Solutions / rješenja
 
 | Solution / Rješenje | Ključni koncepti | Key concepts |
+| ------------------- | ---------------- | ------------ |
 | *zad1.1.cpp* | Kostur programa, unos i ispis podataka | User input/output, String |
 | *zad1.2.cpp* | Kostur programa, unos i ispis podataka, tip podataka String | User input/output, String |
 | *zad1.3.cpp* | Unos i ispis podataka, osnovne aritmetičke operacije | User input/output, basic arithmetic operations |
