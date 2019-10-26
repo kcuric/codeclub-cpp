@@ -14,9 +14,9 @@ Pripremljeni materijali za Zajednicu tehničke kulture Karlovac. Materijali su s
 
 | Solution / Rješenje | Ključni koncepti | Key concepts |
 | ------------------- | ---------------- | ------------ |
-| [*zad1.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.1.cpp) | kostur programa, unos i ispis podataka | User input/output, String |
-| [*zad1.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.2.cpp) | kostur programa, unos i ispis podataka, tip podataka String | User input/output, String |
-| [*zad1.3.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.3.cpp) | unos i ispis podataka, osnovne aritmetičke operacije | User input/output, basic arithmetic operations |
+| [*zad1.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.1.cpp) | kostur programa, unos i ispis podataka | user input/output, String |
+| [*zad1.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.2.cpp) | kostur programa, unos i ispis podataka, tip podataka String | user input/output, String |
+| [*zad1.3.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.3.cpp) | unos i ispis podataka, osnovne aritmetičke operacije | user input/output, basic arithmetic operations |
 | [*zad1.4.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.4.cpp) | selekcije | if-else selection |
 | [*zad1.5.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.5.cpp) | selekcije | if-else selection |
 | [*zad1.6.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad1.6.cpp) | selekcije | if-else selection |
