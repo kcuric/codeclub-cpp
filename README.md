@@ -25,4 +25,11 @@ Pripremljeni materijali za Zajednicu tehničke kulture Karlovac. Materijali su s
 | [*zad2.3.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad2.3.cpp) | funkcije | functions |
 | [*zad2.4.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad2.4.cpp) | polja, iteracije | arrays, iterations |
 | [*zad2.5.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad2.5.cpp) | funkcije, sortiranje | functions, sorting algorithm |
-
+| [*zad3.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | string, palindromi | string, palindrom |
+| [*zad3.1.v2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.v2.cpp) | string, palindromi | string, palindrom |
+| [*zad3.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | string, palindromi | string, palindrom |
+| [*zad3.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.2.cpp) | polja, funkcije, konstante | arrays, functions, constants |
+| [*zad3.3.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | funkcije | functions |
+| [*zad3.4.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | funkcije, modulo | funkcije, mod |
+| [*zad3.5.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | nasumični brojevi | random numbers |
+| [*zad3.6.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | nasumični brojevi, modulo | random numbers, mod |
