@@ -33,3 +33,17 @@ Pripremljeni materijali za Zajednicu tehničke kulture Karlovac. Materijali su s
 | [*zad3.4.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | funkcije, modulo | funkcije, mod |
 | [*zad3.5.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | nasumični brojevi | random numbers |
 | [*zad3.6.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad3.1.cpp) | nasumični brojevi, modulo | random numbers, mod |
+| [*zad4.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad4.1.cpp) | petlje | loops |
+| [*zad4.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad4.2.cpp) | petlje, polja | loops, arrays |
+| [*zad5.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad5.1.cpp) | petlje | loops |
+| [*zad5.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad5.2.cpp) | petlje, funkcije | loops, functions |
+| [*zad5.3.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad5.3.cpp) | petlje, funkcije | loops, functions |
+| [*zad5.4.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad5.4.cpp) | petlje, char | loops, char |
+| [*zad5.5.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad5.2.cpp) | petlje | loops |
+| [*zad6.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.1.cpp) | petlje, char | loops, char |
+| [*zad6.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.2.cpp) | petlje, char | loops, char |
+| [*zad6.3.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.3.cpp) | petlje, funkcije | loops, functions |
+| [*zad6.4.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.3.cpp) | petlje, funkcije | loops, functions |
+| [*zad6.5.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.3.cpp) | jednostavna igra | simple game |
+| [*zad7.1.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.3.cpp) | složeni tipovi podataka, funkcije | struct, funkcije |
+| [*zad7.2.cpp*](https://github.com/kcuric/ztk-cpp/blob/master/zad6.3.cpp) | petlje, funkcije | loops, functions|
